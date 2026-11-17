@@ -8,7 +8,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=900&size=24&duration=800&pause=1000&color=FFFFFF&background=FFFFFF00&center=true&vCenter=true&width=460&lines=Agentes+de+IA+%26+LLMs;Machine+Learning+%26+PyTorch;Algoritmos+%26+Estruturas+de+Dados;Programacao+Competitiva" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=900&size=24&duration=800&pause=1000&color=FFFFFF&background=FFFFFF00&center=true&vCenter=true&width=460&lines=Agentes+de+IA+%26+LLMs;Machine+Learning+%26+PyTorch;Algoritmos+%26+Estruturas+de+Dados;Programação+Competitiva" alt="Typing SVG" />
   </a>
 </div>
 
